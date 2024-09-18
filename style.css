@@ -8,3 +8,9 @@ ul {
     color:yellow;
     text-align: left;
 }
+
+.home-image {
+        width: 500px;
+        border: 1px solid black;
+
+}
