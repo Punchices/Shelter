@@ -5,8 +5,6 @@ body {
 }
 
 ul {
-    background-color: blue;
-    text-align: center;
-    box-sizing: border-box;
     color:yellow;
+    text-align: left;
 }
