@@ -3,3 +3,10 @@ body {
     color: white;
     text-align: center;
 }
+
+ul {
+    background-color: blue;
+    text-align: center;
+    box-sizing: border-box;
+    color:yellow;
+}
